@@ -4,9 +4,10 @@
 
 **Highrise Space Security** is a specialized package designed exclusively for the security team of the Highrise Space Project. This package provides essential tools and functionalities to ensure the safety and security of our operations in the Highrise Space environment.
 
-## Release Date
+## Latest Release
 
 **Release Date:** February 18, 2025
+**Release Version:** 1.3.0
 
 ## Purpose
 
