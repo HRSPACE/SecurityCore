@@ -6,7 +6,7 @@
 
 ## Latest Release
 
-- **Release Version:** 1.4.0
+- **Release Version:** 1.4.1
 - **Release Date:** February 22, 2025
 
 
