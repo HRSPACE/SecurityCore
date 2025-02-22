@@ -6,8 +6,8 @@
 
 ## Latest Release
 
-- **Release Version:** 1.3.0
-- **Release Date:** February 18, 2025
+- **Release Version:** 1.4.0
+- **Release Date:** February 22, 2025
 
 
 ## Purpose
